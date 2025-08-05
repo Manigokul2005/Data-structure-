@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//hello Gokul
 int a[10], currentsize = 0, size;
 
 // Function prototypes
